@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+我写中文
 ---
 
